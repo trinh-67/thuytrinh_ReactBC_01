@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class BaiTapLayout extends Component {
+export default class BaiTapLayout extends Component { 
     render() {
         return (
             <div>
